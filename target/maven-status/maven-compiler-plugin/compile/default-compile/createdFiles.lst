@@ -1,0 +1,7 @@
+com/ejemplo/coilmatching/controller/CursoController.class
+com/ejemplo/coilmatching/repository/CursoRepository.class
+com/ejemplo/coilmatching/model/Universidad.class
+com/ejemplo/coilmatching/CoilMatchingSystemApplication.class
+com/ejemplo/coilmatching/service/SistemaCOILService.class
+com/ejemplo/coilmatching/model/Profesor.class
+com/ejemplo/coilmatching/model/Curso.class
